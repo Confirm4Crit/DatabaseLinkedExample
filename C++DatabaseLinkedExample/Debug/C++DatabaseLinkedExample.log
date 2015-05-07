@@ -1,0 +1,10 @@
+﻿Build started 5/7/2015 3:01:34 PM.
+     1>Project "c:\Users\miles robson\documents\visual studio 2013\Projects\C++DatabaseLinkedExample\C++DatabaseLinkedExample\C++DatabaseLinkedExample.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\miles robson\documents\visual studio 2013\Projects\C++DatabaseLinkedExample\Debug\C++DatabaseLinkedExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\miles robson\documents\visual studio 2013\Projects\C++DatabaseLinkedExample\Debug\C++DatabaseLinkedExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\miles robson\documents\visual studio 2013\Projects\C++DatabaseLinkedExample\Debug\C++DatabaseLinkedExample.lib" /MACHINE:X86 Debug\main.obj
+         C++DatabaseLinkedExample.vcxproj -> c:\users\miles robson\documents\visual studio 2013\Projects\C++DatabaseLinkedExample\Debug\C++DatabaseLinkedExample.exe
+     1>Done Building Project "c:\Users\miles robson\documents\visual studio 2013\Projects\C++DatabaseLinkedExample\C++DatabaseLinkedExample\C++DatabaseLinkedExample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34

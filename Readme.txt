@@ -1,0 +1,1 @@
+HW assignment to explain how blocks of memory work and organize in a database.
